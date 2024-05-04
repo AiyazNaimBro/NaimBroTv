@@ -1,3 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A Sports"tvg-group="Sports" http://121.91.61.106:8000/play/a03o/index.m3u8
+Cricket 🏏 
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T SPORTS HD
+http://103.151.60.214:7444/1101/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Star Sports1 HD
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
