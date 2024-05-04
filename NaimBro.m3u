@@ -1,4 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A Sports"tvg-group="Sports" tvg-logo=/storage/emulated/0/Download/A_Sports_Logo.png", A Sports
-A Sports - Krirangon Live TV - Live Sports for Everyone. Enjoy Live cricket football and others match.mp4
+#EXTINF:-1 tvg-id="A Sports"tvg-group="Sports" http://121.91.61.106:8000/play/a03o/index.m3u8
