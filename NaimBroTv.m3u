@@ -59,7 +59,9 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K
 #EXTINF:-1 group-title="Fifa" tvg-logo="", 18 Bein Sports 2
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/hBdtyHR_R5sD8narAqrGjgptdp7tUAcPp2FsHs7-1PpTyAa41CEhp4JJ0hIZbPIWGaYwiiXUUMQtaQ6v5gLf6A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="", 
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", 19 PTV Sports HQ 🇵🇰
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+
 
 
 
@@ -69,11 +71,6 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/hBdtyHR_R5sD8narA
 
 #EXTINF:-1 group-title="BD Cricket" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BD 🏏
 https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", 17 PTV Sports HQ 🇵🇰
-http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", 18 M6 Spports
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
