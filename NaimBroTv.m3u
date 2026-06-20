@@ -53,6 +53,14 @@ http://41.223.30.230/FOXSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", 16 Fussball Tv
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 
+#EXTINF:-1 group-title="Fifa" tvg-logo="", 17 Bein Sports 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2q-RmKdqTT3qCt95K5I376oFz6-1Q9RAT6Wsr299oTxsC6EQJm2kVJlFTzLQsCpbelIrnEvJcr95aP17xmBjHQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="", 18 Bein Sports 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/hBdtyHR_R5sD8narAqrGjgptdp7tUAcPp2FsHs7-1PpTyAa41CEhp4JJ0hIZbPIWGaYwiiXUUMQtaQ6v5gLf6A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="", 
+
 
 
 # ───────────Spotrs───────────
