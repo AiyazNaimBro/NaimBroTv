@@ -74,6 +74,41 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live
 https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=31f0fabe59b9ec7f4fdfe710e8223858&txTime=6a371a1d
 
+#EXTINF:-1 group-title="Fifa" tvg-logo="", RTB
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="", Somoy Tv
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="", Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA Special 4K — Stream 1" tvg-logo="" group-title="⚽ FIFA Special 4K",FIFA Special 4K — Stream 1
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-name="FIFA Special 4K — Stream 2" tvg-logo="" group-title="⚽ FIFA Special 4K",FIFA Special 4K — Stream 2
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="FIFA Special 4K — Stream 3" tvg-logo="" group-title="⚽ FIFA Special 4K",FIFA Special 4K — Stream 3
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="Caze TV 4K" tvg-logo="" group-title="⚽ FIFA Special 4K",Caze TV 4K
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://abusaeeidx.github.io/bd-tv-logo/logos/somoy-tv.jpg" group-title="Bangladesh",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="FIFA+ Stream 1" tvg-logo="" group-title="⚽ FIFA Special",FIFA+ Stream 1
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-name="FIFA+ Stream 2" tvg-logo="" group-title="⚽ FIFA Special",FIFA+ Stream 2
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="FIFA+ English (Samsung)" tvg-logo="" group-title="⚽ FIFA Special",FIFA+ English (Samsung)
+https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/a4288c44-0852-418a-874a-6068c1f660a7/2.m3u8
+#EXTINF:-1 tvg-name="SPL Saudi Sports" tvg-logo="" group-title="Sports",SPL Saudi Sports
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="OM Sport" tvg-logo="" group-title="Sports",OM Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Sports One" tvg-logo="" group-title="Sports",Sports One
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
 # ───────────Spotrs───────────
 
 #EXTINF:-1 tvg-id="558d7b283783d20faae079492f354e36",PTV SPORTS SD
