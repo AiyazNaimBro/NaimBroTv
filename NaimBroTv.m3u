@@ -74,6 +74,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live
 https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=31f0fabe59b9ec7f4fdfe710e8223858&txTime=6a371a1d
 
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live 2
+https://pull.niues.live/live/stream-534219_lhd.m3u8
+
 #EXTINF:-1 group-title="Fifa" tvg-logo="", RTB
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 
