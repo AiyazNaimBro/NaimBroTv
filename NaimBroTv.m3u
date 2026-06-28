@@ -20,6 +20,9 @@ http://198.195.239.50:8095/Fifa-1/video.m3u8
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports C
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports D
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
