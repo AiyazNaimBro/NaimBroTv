@@ -26,6 +26,9 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports E
 http://198.195.239.50:8095/ptv/index.m3u8
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png", PTV Sports F
+http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live 2
 https://pull.niues.live/live/stream-534219_lhd.m3u8
 
