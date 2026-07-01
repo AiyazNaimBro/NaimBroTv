@@ -3,9 +3,10 @@
 
 # ─────────── Fifa Special───────────
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", IBS TV
+http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" PTV Sports A
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports A
 http://starhub.pro/live/farhat-3379/67897-913379/89.ts
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports HQ
