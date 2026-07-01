@@ -5,23 +5,92 @@
 
 
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" PTV Sports A
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" PTV Sports A
 http://starhub.pro/live/farhat-3379/67897-913379/89.ts
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports HQ
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports HQ
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png", PTV SPORTS SD
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png", PTV SPORTS SD
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports B
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports B
 http://198.195.239.50:8095/Fifa-1/video.m3u8
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports C
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports C
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports D
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports D
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports E
+http://198.195.239.50:8095/ptv/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live 2
+https://pull.niues.live/live/stream-534219_lhd.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png", Bioscope 1
+https://cricxtv.fun/bioscope.php?file=index_3.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png", Bioscope 2
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope 3
+https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope 4
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+
+#EXTINF:-1 group-title="Fifa Special"tvg-logo="https://surl.li/kjoykq",BTV A
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fifa Special"tvg-logo="https://surl.li/kjoykq",BTV B
+http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
+
+#EXTINF:-1 group-title="Fifa Special"tvg-logo="https://imgur.com/79g2kMA.png",BTV C
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports HD
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports Akash DTH 
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png",T Sports A
+http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png",T Sports B
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
+
+EXTINF:-1 group-title="Fifa Toffee"tvg-logo="https://surl.li/kjoykq",Toffee HD
+https://cricxtv.fun/server5.php?stream.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Live
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",Toffee {premium}
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 1
+http://sm-monirul.top/tof/live/toffee1/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 2
+http://sm-monirul.top/tof/live/toffee2/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 3
+http://sm-monirul.top/tof/live/toffee3/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 4
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 5
+https://sm-monirul.top/tof/live/toffee5/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 6
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee 7
+https://cdn-tt.pages.dev/ch5.m3u8
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -68,9 +137,6 @@ https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ft
 #EXTINF:-1 tvg-chno=328 tvg-id="fifa-plus-fr-new" tvg-name="FIFA+" group-title="Fifa",FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live 2
-https://pull.niues.live/live/stream-534219_lhd.m3u8
-
 #EXTINF:-1 group-title="Fifa" tvg-logo="", RTB
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 
@@ -79,63 +145,6 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Fifa",DAZN 1
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Fifa",Bioscope +
-https://cricxtv.fun/bioscope.php?file=index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Bioscope+
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-
-EXTINF:-1 group-title="Fifa"tvg-logo="https://surl.li/kjoykq",Toffee HD
-https://cricxtv.fun/server5.php?stream.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Live
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",Toffee {premium}
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 1
-http://sm-monirul.top/tof/live/toffee1/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 2
-http://sm-monirul.top/tof/live/toffee2/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 3
-http://sm-monirul.top/tof/live/toffee3/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 4
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 5
-https://sm-monirul.top/tof/live/toffee5/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",TOFFEE 6
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee 7
-https://cdn-tt.pages.dev/ch5.m3u8
-
-#EXTINF:-1 group-title="Fifa"tvg-logo="https://surl.li/kjoykq",BTV A
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Fifa"tvg-logo="https://surl.li/kjoykq",BTV B
-http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
-
-#EXTINF:-1 group-title="Fifa"tvg-logo="https://imgur.com/79g2kMA.png",BTV C
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports HD
-http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports Akash DTH 
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",T Sports
-http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imgur.com/79g2kMA.png",T Sports
-http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Somoy TV HD
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
@@ -157,12 +166,6 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite8 SPORTS Hindi
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+
-https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FIFA Raw Broadcast
 https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
