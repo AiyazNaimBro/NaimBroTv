@@ -33,6 +33,9 @@ http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png", PTV Sports F
 http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png", PTV G
+http://103.114.11.37:8081/PTV/video.m3u8?token=LcfvVCNp3LLVz0
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://shorturl.at/NPoFh", Bein Sports 1
 http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
 
@@ -69,6 +72,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",BTV D
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV E
+http://103.114.11.37:8081/BTV/video.m3u8?token=LcfvVCNp3LLVz0
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",T Sports HD 1
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462
 
@@ -83,6 +89,21 @@ http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png",T Sports B
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
+
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports C
+http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=LcfvVCNp3LLVz0
+
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Caze Tv 1080p
+http://103.114.11.37:8081/CazeTv1080p/video.m3u8?token=LcfvVCNp3LLVz0
+
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Caze Tv 720p
+http://103.114.11.37:8081/caze-tv-720p/video.m3u8?token=LcfvVCNp3LLVz0
+
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FIFA+ (English/China)
+http://103.114.11.37:8081/FIFAPLUS/video.m3u8?token=LcfvVCNp3LLVz0
+
+#EXTINF:-1, group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV
+http://103.114.11.37:8081/SOMOY-TV/video.m3u8?token=LcfvVCNp3LLVz0
 
 #EXTINF:-1 group-title="Fifa Toffee"tvg-logo="https://surl.li/kjoykq",Toffee HD
 https://cricxtv.fun/server5.php?stream.m3u8
