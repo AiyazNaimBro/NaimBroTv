@@ -27,7 +27,7 @@ http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports D
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports E
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports E
 http://198.195.239.50:8095/ptv/index.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png", PTV Sports F
@@ -84,7 +84,7 @@ http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png",T Sports B
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 
-EXTINF:-1 group-title="Fifa Toffee"tvg-logo="https://surl.li/kjoykq",Toffee HD
+#EXTINF:-1 group-title="Fifa Toffee"tvg-logo="https://surl.li/kjoykq",Toffee HD
 https://cricxtv.fun/server5.php?stream.m3u8
 
 #EXTINF:-1 group-title="Fifa Toffee" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Live
@@ -241,7 +241,7 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/79g2kMA.png", GO 3 sport 2
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18001/index.m3u8
 
-EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/79g2kMA.png", Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/79g2kMA.png", Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/277428.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/79g2kMA.png", Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
@@ -363,13 +363,13 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/9289/index.m3u8
 
 # ─────────── Movies───────────
 
-EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Sony Max HD 1
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Sony Max HD 1
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-id="af0bc23e416bd9e3dbedea39d456dd94", SONY MAX HD 2
 http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass
 
-EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", SONY MAX HD 3
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", SONY MAX HD 3
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Zee Cinema HD 1
@@ -451,7 +451,7 @@ http://119.156.228.231:9983/stream/channelid/929044861?ticket=F8A4A3BB5E85DBC808
 
 # ─────────── Documentary───────────
 
-EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Discovery Bangla
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Nat Geo HD
