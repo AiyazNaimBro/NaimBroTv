@@ -6,6 +6,9 @@
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", IBS TV
 http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fast Sports
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", PTV Sports 0
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 
