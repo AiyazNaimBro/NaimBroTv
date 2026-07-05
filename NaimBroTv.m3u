@@ -87,9 +87,6 @@ http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 2
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TPV Sport
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://shorturl.at/NPoFh", Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
