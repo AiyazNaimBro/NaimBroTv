@@ -6,8 +6,14 @@
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", IBS TV
 http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fast Sports
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fast Sports ✅
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png", China Tv ✅
+http://fastshare1.com:8080//live/25711345/late8airline/745270.ts
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live 2 ✅
+https://pull.niues.live/live/stream-534219_lhd.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", PTV Sports 1
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
@@ -30,12 +36,6 @@ http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", BEIN-SPORTS-2
 http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live 2 ✅
-https://pull.niues.live/live/stream-534219_lhd.m3u8
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png", China Tv ✅
-http://fastshare1.com:8080//live/25711345/late8airline/745270.ts
-
 #EXTINF:-1 group-title="Fifa Special"tvg-logo="https://surl.li/kjoykq",BTV A
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
@@ -57,17 +57,23 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png",T Sports 4
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", S Football
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 1 HD Hindi
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 2 Eng
+http://198.195.239.50:8095/unt-s/video.m3u8
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 SPORTS 1 Hindi
+https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-id="TNS 1" tvg-name="TNS 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Fifa",TNS 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
@@ -80,12 +86,6 @@ http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 2
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 2 Eng
-http://198.195.239.50:8095/unt-s/video.m3u8
-
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 SPORTS 1 Hindi
-https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TPV Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
