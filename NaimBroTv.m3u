@@ -72,7 +72,7 @@ https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 #EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
-#EXTINF:-1 group-title="Fifa" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv
+#EXTINF:-1 group-title="Fifa" tvg-logo="", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-id="TNS 1" tvg-name="TNS 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Fifa",TNS 1
@@ -94,6 +94,19 @@ http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
 
 # ─────────── Sports───────────
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Sports.tv1 🇵🇹
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=959341&extension=m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Sports.tv2 🇵🇹
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=959345&extension=m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Sports.tv3 🇵🇹
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=959349&extension=m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Sports.tv4 🇵🇹
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=959353&extension=m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/79g2kMA.png", GO 3 sport 1
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
 
