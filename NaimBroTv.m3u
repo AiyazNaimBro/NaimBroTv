@@ -93,6 +93,30 @@ http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 7
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV A
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV B 
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title=Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV C 
+https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV D
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV E
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Somoy News TV (1080p)" group-title="Unknown",Somoy News TV (1080p)
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png",[BD] FIFA WC CHANNEL 1
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783570361~Starts=1783563161~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=FFYHFtlRAA7FS3XhUfnTS1jDTVP8tgskuLul_ZFo5b7XFV-tdE2pybUFKAuKpdKe5w9GpM2SqDAMX8a2KRdICA
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", S Live Central A
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
@@ -308,21 +332,6 @@ http://143.244.62.109:80/as8/index.m3u8
 http://143.244.62.109:80/as9/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", Arena Sport 10 HD
 http://143.244.62.109:80/as10/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV A
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV B 
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV C 
-https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV D
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
