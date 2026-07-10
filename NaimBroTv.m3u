@@ -42,6 +42,12 @@ http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 7
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 8
+http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", BTV
+https://live.shamim-iptv.workers.dev/BTV.m3u8
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 1
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
@@ -57,6 +63,9 @@ http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 5
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 6
+https://live.shamim-iptv.workers.dev/SOMOYTVHD.m3u8
+
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png",[BD] FIFA WC CHANNEL 1
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783570361~Starts=1783563161~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=FFYHFtlRAA7FS3XhUfnTS1jDTVP8tgskuLul_ZFo5b7XFV-tdE2pybUFKAuKpdKe5w9GpM2SqDAMX8a2KRdICA
 
@@ -67,10 +76,13 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 1 HD Hindi
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 SPORTS 1 Hindi
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/IMG_20260612_084720.jpg", Unite 8 SPORTS 2
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
@@ -106,7 +118,19 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/2560/index.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/2559/index.m3u8
 
 
+# ─────────── Sports 2───────────
 
+#EXTINF:-1 group-title="Sports" tvg-logo="", A Sports
+https://live.shamim-iptv.workers.dev/ASPORTSHD.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Euro TV
+https://live.shamim-iptv.workers.dev/EUROSPORTSHD.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Willow Sports
+https://live.shamim-iptv.workers.dev/WILLOWCRICKETHD.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", STAR SPORTS 1
+https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
 
 
 # ─────────── Movies───────────
