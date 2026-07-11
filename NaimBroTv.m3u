@@ -51,6 +51,9 @@ http://book4u.top/royr/index.php?id=FiFaaaah
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", T Sports 11
 http://book4u.top/royr/index.php?id=TSPORTS-MADARCHOD
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", T Sports 12
+http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/48010.m3u8
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", BTV
 https://live.shamim-iptv.workers.dev/BTV.m3u8
 
@@ -90,8 +93,11 @@ https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/IMG_20260612_084720.jpg", Unite 8 SPORTS 2
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 1
 https://earnvid.assadikb.workers.dev/?id=ptvpk
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 2
+http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/278.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
