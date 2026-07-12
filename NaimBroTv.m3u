@@ -246,6 +246,9 @@ http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/Nkj7hqlPz-.jpg", Star Gold
 http://fastshare1.com/live/25711345/late8airline/9375.ts
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold HD 1
+http://66.102.126.10:8000/play/a00f/index.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Sony Pix 1
 http://103.253.18.58:8000/play/a01v
 
@@ -257,15 +260,6 @@ http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold Select HD
 http://103.157.248.140:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold HD 1
-http://66.102.126.10:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold HD 2
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold HD 3
-
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Movies HD 1
 http://66.102.126.10:8000/play/a021/index.m3u8
