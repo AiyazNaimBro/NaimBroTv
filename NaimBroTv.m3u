@@ -55,7 +55,7 @@ http://book4u.top/royr/index.php?id=TSPORTS-MADARCHOD
 http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/48010.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", BTV
-https://live.shamim-iptv.workers.dev/BTV.m3u8
+
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 1
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
@@ -179,7 +179,7 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Zee Cinema HD
-http://103.159.180.34:5001/live/165.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", MOVIES-NOW
 http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
@@ -191,10 +191,10 @@ http://103.157.248.140:8000/play/a01c/index.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold HD 2
-https://airtel.rkdyiptv.workers.dev/live/390.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold HD 3
-http://103.157.248.140:8000/play/a00d/index.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Movies HD 1
 http://66.102.126.10:8000/play/a021/index.m3u8
@@ -208,72 +208,6 @@ http://103.157.248.140:8000/play/a01s/index.m3u8
 
 
 
-# ───────────  New Playlist ───────────
-
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Gold FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8015.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Gold Select FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161929.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Gold 2
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/86051.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Sports 18 3 FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/853011.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Sony Pix FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8557.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Sony Pix Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161919.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Movies Select FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161933.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Movies FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161932.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",WILLOW CRICKET HD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/173031.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",WILLOW 2 HD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/20838.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Sports 1 Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/16906.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Sports 2 FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/7887.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Sports 2 Hindi
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/188294.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",STAR SPORTS 3
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/82401.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Sports Select 1 FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8008.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Star Sports Khel
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/838373.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Sports 18 Khel
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/417606.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",TS Sports 18 1 FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/415465.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",DD Sports
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/20948.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Sports18 Khel
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/417537.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="", D SPORTS HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373209
-#EXTINF:-1 group-title="Ind FHD" tvg-id="", STAR SPORTS FIRST
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373207
-#EXTINF:-1 group-title="Ind FHD" tvg-id="", STAR SPORTS 1 HD HINDI
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373205
-#EXTINF:-1 group-title="Ind FHD" tvg-id="", EUROSPORTS HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373194
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Zee Cinema HD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/7930.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Sony Max FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/7951.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Discovery World Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8006.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Discovery Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161852.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",NatGeo Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/9069.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",NatGeo Wild Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/20860.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Animal Planet World Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8798.ts
-#EXTINF:-1 group-title="Ind FHD" tvg-id="",Animal Planet Hindi FHD
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161833.ts
 
 
 
