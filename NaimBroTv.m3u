@@ -43,19 +43,19 @@ https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", T Sports 9
-http://book4u.top/royr/index.php?id=liveventfuck
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", T Sports 10
 http://book4u.top/royr/index.php?id=FiFaaaah
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", T Sports 11
-http://book4u.top/royr/index.php?id=TSPORTS-MADARCHOD
+http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", T Sports 12
 http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/48010.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", BTV
-
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 1
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
@@ -78,6 +78,15 @@ https://live.shamim-iptv.workers.dev/SOMOYTVHD.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 7
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 10
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", S Live Central A
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
@@ -88,16 +97,31 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 SPORTS 1 Hindi
-https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/IMG_20260612_084720.jpg", Unite 8 SPORTS 2
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 1
-https://earnvid.assadikb.workers.dev/?id=ptvpk
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 2
 http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/278.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fifa 2026 A
+http://fastshare1.com/live/25711345/late8airline/741567.ts
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fifa 2026 B
+http://fastshare1.com/live/25711345/late8airline/751354.ts
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fifa 2026 C
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fifa 2026 D
+http://fastshare1.com/live/25711345/late8airline/742610.ts
+
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fifa 2026 E
+http://fastshare1.com/live/25711345/late8airline/742611.ts
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
@@ -171,15 +195,16 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 6
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="", DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 # ─────────── Movies───────────
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Sony Max HD 1
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Zee Cinema HD
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Sony Pix
+http://103.253.18.58:8000/play/a01v
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", MOVIES-NOW
 http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
@@ -205,8 +230,8 @@ http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Movies Select HD
 http://103.157.248.140:8000/play/a01s/index.m3u8
 
-
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", HBO
+http://103.213.31.111/HBOHD/index.m3u8
 
 
 
