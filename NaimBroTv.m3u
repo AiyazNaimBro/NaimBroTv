@@ -143,47 +143,26 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/19056/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", A Sports 1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", A Sports 2
-https://earnvid.assadikb.workers.dev/?id=asportshd
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", Euro TV
 https://live.shamim-iptv.workers.dev/EUROSPORTSHD.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", Willow Sports
-https://live.shamim-iptv.workers.dev/WILLOWCRICKETHD.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", STAR SPORTS 1
 https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", Sky Sports
-https://earnvid.assadikb.workers.dev/?id=skyscric
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 1
-http://200.91.32.158:8080/dsportshd/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 2
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 3
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 4
+#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 2
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 5
+#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 3
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 6
+#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 4
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", DD Sports 2
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", DD Sports 3
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -191,29 +170,17 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", Al Iraqia Sport
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", Digi Sport 3 HD
-http://82.78.243.219:45739/play/a01m/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", Fox Sports
-https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", fubo Sports
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", Jordan Sport
-http://93.184.10.248/JordanSport/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", KSA Sports 1
 https://aloula-redirect.vercel.app/9/playlist.m3u8
@@ -224,29 +191,14 @@ https://aloula-redirect.vercel.app/10/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", KSA Sports 3
 https://aloula-redirect.vercel.app/16/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", KTV Sport
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", KTV Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", 460 Fubo Sports
-https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", FTF Sports
 https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", Fox Sports 501
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", DAZN FAST
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 
 # ─────────── Movies───────────
@@ -255,7 +207,7 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Sony
+#EXTINF:-1 group-title="Movie" tvg-logo="https:om/79g2kMA.png", Sony
 http://138.121.15.230:9002/SONY/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold
