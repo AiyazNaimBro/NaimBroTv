@@ -88,38 +88,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Somoy TV 8
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 S 1
-http://premiumtvs.space/live/ARORA005/65553356/741567.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 S 2
-http://premiumtvs.space/live/ARORA005/65553356/745202.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 S 3
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 4
-http://fastshare1.com/live/112233/445566/741567.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 5
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 6
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 7
-http://202.70.146.135:8000/play/a06s/index.m3u8
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 8
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 9
-http://fastshare1.com/live/25711345/late8airline/745202.ts
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite 8 S 10
-http://180.94.28.28:8097/Fifa-2026/index.m3u8
-
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/IMG_20260612_084720.jpg", Unite 8 S 11
-http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite8 S2 SunDirect
+http://103.165.93.31:8095/unt-s/video.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 1
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
