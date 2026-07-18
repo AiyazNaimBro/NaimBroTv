@@ -79,29 +79,14 @@ https://dellamonic.s3.us-east-2.amazonaws.com/btsport2.m3u8
 https://dellamonic.s3.us-east-2.amazonaws.com/btsport.m3u8
 #EXTINF:-1, Qaz Sports
 http://stream.mcquack.net/72/index.m3u8
-
-#EXTINF:-1,D-Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1,WIN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1,Unite 8 Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1,TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1,Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,beIN SPORTS 1
 http://145.239.5.177/557a/index.m3u8
-#EXTINF:-1,M6
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1,S Football
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1,Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1,Tudn Sports
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1,BeIN Sports 1
+#EXTINF:-1, nw Sport 1 Direct
 http://41.205.70.146/BEINSPORT1/index.m3u8
 
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 1
@@ -122,39 +107,25 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTINF:-1 group-title="Fifa Special" tvg-logo="https://imgur.com/79g2kMA.png", ESPN
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/19056/index.m3u8
-#EXTINF:-1,ESPN S2
-http://186.33.40.97:8789/play/20
-
 
 # ─────────── Sports 2───────────
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Willow Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="", STAR SPORTS 1
+https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",A Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",beIN sports Xtra HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",FIFA Live
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", A Sports 1
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", Euro TV
-https://live.shamim-iptv.workers.dev/EUROSPORTSHD.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", STAR SPORTS 1
-https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -168,44 +139,11 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 4
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", ACI Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", Africa 24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", AS3 Sport TV
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", FTF Sports
-https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", fubo Sports
-https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", KSA Sports 1
-https://aloula-redirect.vercel.app/9/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", KSA Sports 2
-https://aloula-redirect.vercel.app/10/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", KSA Sports 3
-https://aloula-redirect.vercel.app/16/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", PK Sports
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", FTF Sports
-https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 
 
 # ─────────── Movies───────────
