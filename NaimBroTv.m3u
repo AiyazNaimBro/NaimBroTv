@@ -97,6 +97,33 @@ http://103.155.18.186:8000/play/a125/index.m3u8
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", Unite8 S2
 http://103.155.18.186:8000/play/a126/index.m3u8
 
+#EXTINF:-1,D-Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1,Z Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+#EXTINF:-1,WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1,Unite 8 Sports 1 HD
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1,TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1,Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,beIN SPORTS 1 UHD
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707929.ts
+#EXTINF:-1,M6
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1,S Football
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1,Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,ESPN S2
+http://186.33.40.97:8789/play/20
+#EXTINF:-1,Tudn Sports
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+#EXTINF:-1,BeIN Sports 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+
 #EXTINF:-1 group-title="Fifa Special" tvg-logo="", PTV 1
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
