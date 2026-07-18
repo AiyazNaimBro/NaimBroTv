@@ -140,6 +140,23 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/19056/index.m3u8
 
 # ─────────── Sports 2───────────
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Willow Sports
+http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
+http://103.151.60.204:881/StarSports1/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 2
+http://103.151.60.204:881/StarSports2/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",A Sports
+http://103.151.60.204:881/A-Sports/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",beIN sports Xtra HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",FIFA Live
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports 1 Max Arabic
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="", A Sports 1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
