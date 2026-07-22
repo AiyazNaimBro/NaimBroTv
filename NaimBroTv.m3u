@@ -4,6 +4,8 @@
 # ─────────── Sports───────────
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 group-title="Fifa Special T" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", T SPORTS 1
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
@@ -110,40 +112,59 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 # ─────────── Sports 2───────────
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Willow Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Star Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
+http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", STAR SPORTS 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" group-title="Sports" tvg-logo="", STAR SPORTS 1
 https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Star Sports 2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" Star Sports 1
+http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", A Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" Star Sports 2
+http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", beIN sports Xtra HD
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",A Sports HD
+http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports 1 Max Arabic
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
+http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="", D Sports 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="", D Sports 2
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 3
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="", D Sports 3
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", D Sports 4
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="", D Sports 4
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", ČT Sport
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="", Win Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="", Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" Ten Cricket 
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+
+
+
+
 
 
 # ─────────── Movies───────────
@@ -152,8 +173,16 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372
 
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https:om/79g2kMA.png", Sony
 http://138.121.15.230:9002/SONY/index.m3u8
+
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
+https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold
 http://66.102.126.10:8000/play/a00f/index.m3u8
@@ -166,6 +195,11 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Sony Pix
 http://103.253.18.58:8000/play/a01v
@@ -309,10 +343,15 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=11
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280778&extension=ts&play_token=qr182OlX8M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| TATA PLAY HOLLYWOOD LOCAL
 http://line.iptvhunt.com/play/live.php?
-# ───────────  Bangladesh───────────
 
 
+# ───────────  Kids───────────
 
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/G2F8757j/20240823-021053.png",Rongeen
+http://103.175.73.12:8080/live/202/202_0.m3u8
+
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo 
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
 
