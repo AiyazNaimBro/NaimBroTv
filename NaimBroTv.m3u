@@ -337,24 +337,18 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=11
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112131&extension=ts&play_token=Fs9UI4uVxN
 #EXTINF:-1 group-title="Movie", STARGOLD SELECT HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280778&extension=ts&play_token=qr182OlX8M
-#EXTINF:-1 group-title="Movie", TATA PLAY HOLLYWOOD LOCAL
-http://line.iptvhunt.com/play/live.php?
+
 
 
 # ───────────  Kids───────────
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", Rongeen
-http://103.175.73.12:8080/live/202/202_0.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", Pogo 
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
 # ─────────── Documentary───────────
 
-#EXTINF:-1 group-title="Documentary", Discovery Hindi
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Documentary", Nat Geo Hindi
-http://202.70.146.135:8000/play/a05o/index.m3u8
+
 #EXTINF:-1 group-title="Documentary", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary", Adventure Earth
