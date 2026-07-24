@@ -207,169 +207,159 @@ http://66.102.126.10:8000/play/a021/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Movie" 1
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280377&extension=ts&play_token=EOUBulpWLK
-#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 5
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 1
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280378&extension=ts&play_token=E6BIJhEvkY
-#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 6
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 2
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280379&extension=ts&play_token=iz332RmCkk
-#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 7 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 3
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280380&extension=ts&play_token=LjQLxbjtDT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 8 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 4
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280381&extension=ts&play_token=J3PbFcubZm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 9 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 5
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280382&extension=ts&play_token=mRVIxTIZHm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 10 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 6
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280383&extension=ts&play_token=OINCdtXRO5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 1 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 1 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280384&extension=ts&play_token=zbILVf7hJw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 2 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 2 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280385&extension=ts&play_token=EynUMxMXon
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 3 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 3 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280386&extension=ts&play_token=AB6ix1M1km
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 4 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 4 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280387&extension=ts&play_token=JRiITc9n1B
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 5 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 5 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280388&extension=ts&play_token=kE6QUbJ05p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 6 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 6 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280389&extension=ts&play_token=TJFWcx9dCv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 7 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 7 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280390&extension=ts&play_token=GjAVC1nAio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 8 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 8 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280391&extension=ts&play_token=VXq6rtafhk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA SCI-FI 9 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA SCI-FI 9 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280392&extension=ts&play_token=cX33YSAJ3I
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 1 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 1 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280403&extension=ts&play_token=jkigX8dhs7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 2 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 2 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280404&extension=ts&play_token=9E2JVRcQ6K
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 3 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 3 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280405&extension=ts&play_token=zgP1FWilHx
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 4 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 4 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280406&extension=ts&play_token=xMWT2WtS1e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 5 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 5 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280407&extension=ts&play_token=0ZJaKFA36x
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 6 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 6 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280408&extension=ts&play_token=O2TGMKsHUh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 7 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 7 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280409&extension=ts&play_token=AfOi6AAZV9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA BOLLYWOOD 8 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA BOLLYWOOD 8 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280410&extension=ts&play_token=2YTmkDp1kF
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY MAX HD
+#EXTINF:-1 group-title="Movie", SONY MAX HD
 http://fastshare1.com/live/25711345/late8airline/151.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY MAX (FHD)
+#EXTINF:-1 group-title="Movie", SONY MAX (FHD)
 http://fastshare1.com/live/25711345/late8airline/9373.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: STAR GOLD HD
+#EXTINF:-1 group-title="Movie", STAR GOLD HD
 http://fastshare1.com/live/25711345/late8airline/194.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: Star GOLD (FHD)
+#EXTINF:-1 group-title="Movie", Star GOLD (FHD)
 http://fastshare1.com/live/25711345/late8airline/9375.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: STAR GOLD 2 (4K)
+#EXTINF:-1 group-title="Movie", STAR GOLD 2 (4K)
 http://fastshare1.com/live/25711345/late8airline/157081.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: STAR GOLD SELECT HD
+#EXTINF:-1 group-title="Movie", STAR GOLD SELECT HD
 http://fastshare1.com/live/25711345/late8airline/210.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: Star Gold SELECT (FHD)
+#EXTINF:-1 group-title="Movie", Star Gold SELECT (FHD)
 http://fastshare1.com/live/25711345/late8airline/9376.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: ZEE CINEMA HD
+#EXTINF:-1 group-title="Movie", ZEE CINEMA HD
 http://fastshare1.com/live/25711345/late8airline/230.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: & PICTURES HD
+#EXTINF:-1 group-title="Movie", & PICTURES HD
 http://fastshare1.com/live/25711345/late8airline/231.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: CINEPLEX HD
+#EXTINF:-1 group-title="Movie", CINEPLEX HD
 http://fastshare1.com/live/25711345/late8airline/867.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: Colors Cineplex (FHD)
+#EXTINF:-1 group-title="Movie", Colors Cineplex (FHD)
 http://fastshare1.com/live/25711345/late8airline/9378.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: COLORS CINEPLEX SUPERHITS
+#EXTINF:-1 group-title="Movie", COLORS CINEPLEX SUPERHITS
 http://fastshare1.com/live/25711345/late8airline/172368.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: Colors Cineplex Bollywood
+#EXTINF:-1 group-title="Movie", Colors Cineplex Bollywood
 http://fastshare1.com/live/25711345/late8airline/37074.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY HD
+#EXTINF:-1 group-title="Movie", SONY HD
 http://fastshare1.com/live/25711345/late8airline/144.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY TV HD
+#EXTINF:-1 group-title="Movie", SONY TV HD
 http://fastshare1.com/live/25711345/late8airline/224.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY (FHD)
+#EXTINF:-1 group-title="Movie", SONY (FHD)
 http://fastshare1.com/live/25711345/late8airline/9365.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: STAR MOVIES HD
+#EXTINF:-1 group-title="Movie", STAR MOVIES HD
 http://fastshare1.com/live/25711345/late8airline/979.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: STAR MOVIES SELECT HD
+#EXTINF:-1 group-title="Movie", STAR MOVIES SELECT HD
 http://fastshare1.com/live/25711345/late8airline/218.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY PIX HD
+#EXTINF:-1 group-title="Movie", SONY PIX HD
 http://fastshare1.com/live/25711345/late8airline/147.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: MN PLUS
+#EXTINF:-1 group-title="Movie", MN PLUS
 http://fastshare1.com/live/25711345/late8airline/178.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: MNX HD
+#EXTINF:-1 group-title="Movie", MNX HD
 http://fastshare1.com/live/25711345/late8airline/191.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: & PRIVE HD
+#EXTINF:-1 group-title="Movie", & PRIVE HD
 http://fastshare1.com/live/25711345/late8airline/201.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: & FLIX HD
+#EXTINF:-1 group-title="Movie", & FLIX HD
 http://fastshare1.com/live/25711345/late8airline/253.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: HBO 2 HD
+#EXTINF:-1 group-title="Movie", HBO 2 HD
 http://fastshare1.com/live/25711345/late8airline/185.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: SONY PIX (FHD)
+#EXTINF:-1 group-title="Movie", SONY PIX (FHD)
 http://fastshare1.com/live/25711345/late8airline/9381.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: MN+ (FHD)
+#EXTINF:-1 group-title="Movie", MN+ (FHD)
 http://fastshare1.com/live/25711345/late8airline/9383.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",IN: STAR MOVIES (FHD)
+#EXTINF:-1 group-title="Movie", STAR MOVIES (FHD)
 http://fastshare1.com/live/25711345/late8airline/9384.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY MAX FHD
+#EXTINF:-1 group-title="Movie", SONY MAX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156013&extension=ts&play_token=hyyHIzNxQy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY MAX HD
+#EXTINF:-1 group-title="Movie", SONY MAX HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY MAX 2
+#EXTINF:-1 group-title="Movie", SONY MAX 2
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156118&extension=ts&play_token=yLVnTPnmjx
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY MAX 2 HD
+#EXTINF:-1 group-title="Movie", SONY MAX 2 HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280780&extension=ts&play_token=fcGHHYKtJl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY PIX FHD
+#EXTINF:-1 group-title="Movie", SONY PIX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156004&extension=ts&play_token=8yNR4zLlkI
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY WAH
+#EXTINF:-1 group-title="Movie", SONY WAH
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156039&extension=ts&play_token=xODOiKoWYU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD FHD
+#EXTINF:-1 group-title="Movie", STAR GOLD FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=155969&extension=ts&play_token=ZXAyNQLsRQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD HD
+#EXTINF:-1 group-title="Movie", STAR GOLD HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280766&extension=ts&play_token=aIm6acfUC1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD 2 FHD
+#EXTINF:-1 group-title="Movie", STAR GOLD 2 FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112132&extension=ts&play_token=8NLQhgyG8b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD 2
+#EXTINF:-1 group-title="Movie", STAR GOLD 2
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532835&extension=ts&play_token=9AiTKQq2jB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD ROMANCE
+#EXTINF:-1 group-title="Movie", STAR GOLD ROMANCE
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156033&extension=ts&play_token=Jg18VNlcp6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD SELECT FHD
+#EXTINF:-1 group-title="Movie", STAR GOLD SELECT FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=155970&extension=ts&play_token=LscdLiHFF0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD THRILLS
+#EXTINF:-1 group-title="Movie", STAR GOLD THRILLS
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1118072&extension=ts&play_token=EOylYSWNv9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR MOVIES FHD
+#EXTINF:-1 group-title="Movie", STAR MOVIES FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112131&extension=ts&play_token=Fs9UI4uVxN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STARGOLD SELECT HD
+#EXTINF:-1 group-title="Movie", STARGOLD SELECT HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280778&extension=ts&play_token=qr182OlX8M
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| TATA PLAY HOLLYWOOD LOCAL
+#EXTINF:-1 group-title="Movie", TATA PLAY HOLLYWOOD LOCAL
 http://line.iptvhunt.com/play/live.php?
 
 
 # ───────────  Kids───────────
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/G2F8757j/20240823-021053.png",Rongeen
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", Rongeen
 http://103.175.73.12:8080/live/202/202_0.m3u8
-
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo 
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", Pogo 
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-
-
-
-
 
 
 # ─────────── Documentary───────────
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Discovery Hindi
+#EXTINF:-1 group-title="Documentary", Discovery Hindi
 http://202.70.146.135:8000/play/a05z/index.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Nat Geo Hindi
+#EXTINF:-1 group-title="Documentary", Nat Geo Hindi
 http://202.70.146.135:8000/play/a05o/index.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Wild Earth
+#EXTINF:-1 group-title="Documentary", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Adventure Earth
+#EXTINF:-1 group-title="Documentary", Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", BBC Earth
+#EXTINF:-1 group-title="Documentary", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet
+#EXTINF:-1 group-title="Documentary", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
