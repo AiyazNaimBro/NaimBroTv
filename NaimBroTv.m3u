@@ -46,13 +46,13 @@ https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 13
 http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png" BTV 1
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 1
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png" BTV 2
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 2
 http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png", BTV 3
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 3
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Unite8 S2 SunDirect
@@ -101,138 +101,117 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Willow Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports 1
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Willow Sports 2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports 2
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Star Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" STAR SPORTS 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", STAR SPORTS 1
 https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Star Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Star Sports 2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Star Sports 2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" A Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" A Sports HD
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports HD
 http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" beIN sports Xtra HD
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Bein Sports 1 Max Arabic
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Bein Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Bein Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Bein Sports 1
 http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" D Sports 1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" D Sports 2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 2
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" D Sports 3
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 3
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" D Sports 4
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 4
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" ČT Sport
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Win Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Ten Cricket 
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" Willow Sports
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
 
 # ─────────── ───────────
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Peace TV Bangla
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321_075216.png", Islamic TV
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Islamic TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZH543FH/20250618-224047.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Islam Bangla
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Islam Bangla
 https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/bitrate1-index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Iqra Bangla
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Quran TV
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Iqraa TV 
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Iqraa TV 
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-
-
 
 # ─────────── Movies───────────
 
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
+#EXTINF:-1 group-title="Movie", Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https:om/79g2kMA.png", Sony
+#EXTINF:-1 group-title="Movie", Sony
 http://138.121.15.230:9002/SONY/index.m3u8
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
+#EXTINF:-1 group-title="Movie", Zee Cinema HD 
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
+#EXTINF:-1 group-title="Movie", HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Gold
+#EXTINF:-1 group-title="Movie", Star Gold
 http://66.102.126.10:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
+#EXTINF:-1 group-title="Movie", & Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
+#EXTINF:-1 group-title="Movie", & Picture
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Zee Action
+#EXTINF:-1 group-title="Movie", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", GOLDMINES
+#EXTINF:-1 group-title="Movie", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", GOLDMINES MOVIES
+#EXTINF:-1 group-title="Movie", GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
+#EXTINF:-1 group-title="Movie", Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
+#EXTINF:-1 group-title="Movie", Sony Television HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Sony Pix
+#EXTINF:-1 group-title="Movie", Sony Pix
 http://103.253.18.58:8000/play/a01v
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Movies
+#EXTINF:-1 group-title="Movie", Star Movies
 http://66.102.126.10:8000/play/a021/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://imgur.com/79g2kMA.png", Star Movies Select
+#EXTINF:-1 group-title="Movie", Star Movies Select
 http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Movie" 1
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280377&extension=ts&play_token=EOUBulpWLK
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 5 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 5
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280378&extension=ts&play_token=E6BIJhEvkY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 6 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 6
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280379&extension=ts&play_token=iz332RmCkk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 7 HD
+#EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 7 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280380&extension=ts&play_token=LjQLxbjtDT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃DE┃ PREMIUM CINEMA HORROR 8 HD
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280381&extension=ts&play_token=J3PbFcubZm
