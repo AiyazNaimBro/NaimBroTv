@@ -185,10 +185,6 @@ https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 group-title="Movie", Star Gold
 http://66.102.126.10:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Movie", & Tv
-https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-#EXTINF:-1 group-title="Movie", & Picture
-https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
 #EXTINF:-1 group-title="Movie", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1 group-title="Movie", GOLDMINES
@@ -205,8 +201,6 @@ http://103.253.18.58:8000/play/a01v
 http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Movie", Star Movies Select
 http://66.102.126.10:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Movie" 1
-http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280377&extension=ts&play_token=EOUBulpWLK
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 1
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280378&extension=ts&play_token=E6BIJhEvkY
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 2
