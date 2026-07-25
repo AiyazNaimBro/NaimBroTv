@@ -111,11 +111,8 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 http://103.151.60.204:881/StarSports1/video.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", STAR SPORTS 1
 https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
-http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
@@ -177,18 +174,18 @@ https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156118&extension=ts&play_token=yLVnTPnmjx
 #EXTINF:-1 group-title="Movie", Sony Max A
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280777&extension=ts&play_token=jvVVd0kPfa
+#EXTINF:-1 roup-title="Movie", SONY MAX FHD
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156013&extension=ts&play_token=hyyHIzNxQy
+#EXTINF:-1 roup-title="Movie", SONY MAX HD
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
 #EXTINF:-1 group-title="Movie", Sony Max TATA
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280759&extension=ts&play_token=qrSh5EoMYn
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| COLORS CINEPLEX FHD
+#EXTINF:-1 roup-title="Movie", COLORS CINEPLEX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156003&extension=ts&play_token=X3VRlYmNWB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| COLORS CINEPLEX SD
+#EXTINF:-1 roup-title="Movie", COLORS CINEPLEX SD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280749&extension=ts&play_token=RulgA3wxG6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| COLORS INFINITY FHD
+#EXTINF:-1 roup-title="Movie", COLORS INFINITY FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532833&extension=ts&play_token=47C3XnB0MC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY MAX FHD
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156013&extension=ts&play_token=hyyHIzNxQy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| SONY MAX HD
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
 
 #EXTINF:-1 group-title="Movie", Sony
 http://138.121.15.230:9002/SONY/index.m3u8
@@ -206,27 +203,22 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=155969&extension=ts&play_token=ZXAyNQLsRQ
 #EXTINF:-1 group-title="Movie", Star Gold C
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280766&extension=ts&play_token=aIm6acfUC1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD 2 FHD
+#EXTINF:-1 group-title="Movie", STAR GOLD 2 FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112132&extension=ts&play_token=8NLQhgyG8b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD 2
+#EXTINF:-1 group-title="Movie", STAR GOLD 2
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532835&extension=ts&play_token=9AiTKQq2jB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD ROMANCE
+#EXTINF:-1 group-title="Movie", STAR GOLD ROMANCE
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156033&extension=ts&play_token=Jg18VNlcp6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD SELECT FHD
+#EXTINF:-1 group-title="Movie", STAR GOLD SELECT FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=155970&extension=ts&play_token=LscdLiHFF0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR GOLD THRILLS
+#EXTINF:-1 group-title="Movie", STAR GOLD THRILLS
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1118072&extension=ts&play_token=EOylYSWNv9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STAR MOVIES FHD
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112131&extension=ts&play_token=Fs9UI4uVxN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| STARGOLD SELECT HD
+#EXTINF:-1 group-title="Movie", STARGOLD SELECT HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280778&extension=ts&play_token=qr182OlX8M
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| TATA PLAY HOLLYWOOD LOCAL
+#EXTINF:-1 group-title="Movie", TATA PLAY HOLLYWOOD LOCAL
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532848&extension=ts&play_token=Yfzt2sypcR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",HINDI| MOVIES NOW FHD
+#EXTINF:-1 group-title="Movie", MOVIES NOW FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156022&extension=ts&play_token=76scVqs2up
-
-
-
 
 #EXTINF:-1 group-title="Movie", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
@@ -242,6 +234,8 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 http://103.253.18.58:8000/play/a01v
 #EXTINF:-1 group-title="Movie", Star Movies
 http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Movie", STAR MOVIES FHD
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112131&extension=ts&play_token=Fs9UI4uVxN
 #EXTINF:-1 group-title="Movie", Star Movies Select
 http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 1
@@ -486,11 +480,11 @@ http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", Pogo 
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃USA┃ PBS KIDS HD
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PBS KIDS HD
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858753&extension=ts&play_token=9RmlhbjBmJ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃USA┃ PLAY KIDZ OMAR & HANA HD
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PLAY KIDZ OMAR & HANA HD
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858718&extension=ts&play_token=89qhi94ChX
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃USA┃ PLAY KIDZ PROPHET STORIES HD
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PLAY KIDZ PROPHET STORIES HD
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858712&extension=ts&play_token=BNWpEMk043
 
 # ─────────── Documentary───────────
