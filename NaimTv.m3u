@@ -412,8 +412,7 @@ http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=8
 
 
 # ─────────── Documentary───────────
-#EXTINF:-1 group-title="Documentary", Discovery Bangla
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=225747&extension=ts&play_token=hbT2xT0Z3w
+
 #EXTINF:-1 group-title="Documentary", DISCOVERY HD BENGALI
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=908684&extension=ts&play_token=wkYILcdxiu
 #EXTINF:-1 group-title="Documentary", Wild Earth
