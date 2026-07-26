@@ -219,7 +219,8 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=28
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532848&extension=ts&play_token=Yfzt2sypcR
 #EXTINF:-1 group-title="Movie", MOVIES NOW FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156022&extension=ts&play_token=76scVqs2up
-
+#EXTINF:-1 group-title="Movie", MNX
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156021&extension=ts&play_token=1VEMLWzpQI
 #EXTINF:-1 group-title="Movie", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1 group-title="Movie", GOLDMINES
