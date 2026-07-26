@@ -141,17 +141,17 @@ https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156118&extension=ts&play_token=yLVnTPnmjx
 #EXTINF:-1 group-title="Movie", Sony Max A
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280777&extension=ts&play_token=jvVVd0kPfa
-#EXTINF:-1 roup-title="Movie", SONY MAX FHD
+#EXTINF:-1 group-title="Movie", SONY MAX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156013&extension=ts&play_token=hyyHIzNxQy
-#EXTINF:-1 roup-title="Movie", SONY MAX HD
+#EXTINF:-1 group-title="Movie", SONY MAX HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
 #EXTINF:-1 group-title="Movie", Sony Max TATA
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280759&extension=ts&play_token=qrSh5EoMYn
-#EXTINF:-1 roup-title="Movie", COLORS CINEPLEX FHD
+#EXTINF:-1 group-title="Movie", COLORS CINEPLEX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156003&extension=ts&play_token=X3VRlYmNWB
-#EXTINF:-1 roup-title="Movie", COLORS CINEPLEX SD
+#EXTINF:-1 group-title="Movie", COLORS CINEPLEX SD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280749&extension=ts&play_token=RulgA3wxG6
-#EXTINF:-1 roup-title="Movie", COLORS INFINITY FHD
+#EXTINF:-1 group-title="Movie", COLORS INFINITY FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532833&extension=ts&play_token=47C3XnB0MC
 #EXTINF:-1 group-title="Movie", Sony
 http://138.121.15.230:9002/SONY/index.m3u8
