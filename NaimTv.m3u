@@ -1,59 +1,43 @@
 #EXTM3U
 
 
-# ─────────── Sports───────────
-
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T SPORTS 1
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 2
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 3
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 4
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 5
 http://103.165.93.31:8095/tsports/video.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 6
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 7
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 8
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 9
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 10
 http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/48010.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 11
 http://103.165.93.31:8095/tsports/video.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 12
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports 13
 http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 1
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 2
 http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 3
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+
+# ─────────── Sports───────────
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Unite8 S2 SunDirect
 http://103.165.93.31:8095/unt-s/video.m3u8
@@ -85,22 +69,16 @@ http://145.239.5.177/557a/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", nw Sport 1 Direct
 http://41.205.70.146/BEINSPORT1/index.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV 1
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV 2
 http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/278.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", 616 Sports 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745270.ts
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", S Live Central B
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Fifa 2026 C
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports 1
@@ -117,7 +95,6 @@ https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
 http://103.151.60.204:881/StarSports2/video.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports HD
@@ -128,35 +105,26 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Bein Sports 1
 http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 2
 http://190.108.83.69:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 3
 http://191.97.59.33:8000/play/a09t/index.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 4
 http://8.243.126.131:8000/play/a05a/index.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
 
-# ─────────── ───────────
+# ───────────𝗜𝘀𝗹𝗮𝗺𝗶𝗰───────────
 
 #EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -166,7 +134,6 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=22
 http://line.umetop.pro/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225795&extension=ts&play_token=RK4tuS0YfA
 
 # ─────────── Movies───────────
-
 
 #EXTINF:-1 group-title="Movie", Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
@@ -186,7 +153,6 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=15
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280749&extension=ts&play_token=RulgA3wxG6
 #EXTINF:-1 roup-title="Movie", COLORS INFINITY FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532833&extension=ts&play_token=47C3XnB0MC
-
 #EXTINF:-1 group-title="Movie", Sony
 http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 group-title="Movie", Zee Cinema HD 
@@ -483,15 +449,23 @@ http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PBS KIDS HD
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858753&extension=ts&play_token=9RmlhbjBmJ
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PLAY KIDZ OMAR & HANA HD
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858718&extension=ts&play_token=89qhi94ChX
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PLAY KIDZ PROPHET STORIES HD
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858712&extension=ts&play_token=BNWpEMk043
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DISNEY XD HD [EAST]
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858763&extension=ts&play_token=TyAycJc0RS
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DINSEY XD HD [WEST]
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858762&extension=ts&play_token=wSjGqDLSK3
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DISNEY CHANNEL HD [EAST]
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858767&extension=ts&play_token=CaCPrO5pqr
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DISNEY CHANNEL HD [WEST]
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858766&extension=ts&play_token=PuvuVgRfw5
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", BOOMERANG HD
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858770&extension=ts&play_token=db4gdqn5ZH
+
+
 
 # ─────────── Documentary───────────
 #EXTINF:-1 group-title="Documentary", Discovery Bangla
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=225747&extension=ts&play_token=hbT2xT0Z3w
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃BANGLA┃ DISCOVERY HD BENGALI
+#EXTINF:-1 group-title="Documentary", DISCOVERY HD BENGALI
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=908684&extension=ts&play_token=wkYILcdxiu
 #EXTINF:-1 group-title="Documentary", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
