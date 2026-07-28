@@ -31,8 +31,10 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 https://go.skym3u.top/live/aHR0cDovL3R2c2VuNy5heW5hc2NvcGUubmV0L3NzcHRzMS9pbmRleC5tM3U4.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", STAR SPORTS 1
-https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", STAR SPORTS 1 TaTaPlay
+http://103.253.18.58:8000/play/a00m
+EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1 Hindi
+http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2 HD (720p)
 https://go.skym3u.top/live/aHR0cDovL3R2c2VuNy5heW5hc2NvcGUubmV0L3NzcG9ydDJoZC9pbmRleC5tM3U4.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
@@ -47,6 +49,8 @@ http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 2
 http://103.151.60.188:1111/Ten_Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", REAL MADRID TV - English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Fox Sports
 http://206.212.244.63/63/index.m3u8
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Tsn 1
