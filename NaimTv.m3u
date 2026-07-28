@@ -108,6 +108,8 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=15
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
 #EXTINF:-1 group-title="Movie", Sony Max TATA
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280759&extension=ts&play_token=qrSh5EoMYn
+#EXTINF:-1 group-title="Movie", Sony Max HD (Sony Liv)
+http://live.balajibroadband.com:3500/live/476.m3u8
 #EXTINF:-1 group-title="Movie", COLORS CINEPLEX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156003&extension=ts&play_token=X3VRlYmNWB
 #EXTINF:-1 group-title="Movie", COLORS CINEPLEX SD
@@ -134,14 +136,20 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=28
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112132&extension=ts&play_token=8NLQhgyG8b
 #EXTINF:-1 group-title="Movie", STAR GOLD 2
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532835&extension=ts&play_token=9AiTKQq2jB
+#EXTINF:-1 group-title="Movie", STAR GOLD 2 SD
+http://66.102.126.10:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Movie", STAR GOLD ROMANCE
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156033&extension=ts&play_token=Jg18VNlcp6
 #EXTINF:-1 group-title="Movie", STAR GOLD SELECT FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=155970&extension=ts&play_token=LscdLiHFF0
-#EXTINF:-1 group-title="Movie", STAR GOLD THRILLS
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1118072&extension=ts&play_token=EOylYSWNv9
 #EXTINF:-1 group-title="Movie", STARGOLD SELECT HD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280778&extension=ts&play_token=qr182OlX8M
+#EXTINF:-1 group-title="Movie", STARGOLD SELECT HD A
+http://66.102.126.10:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Movie", STAR GOLD THRILLS
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1118072&extension=ts&play_token=EOylYSWNv9
+#EXTINF:-1 group-title="Movie", STAR GOLD THRILLS A
+http://66.102.126.10:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Movie", TATA PLAY HOLLYWOOD LOCAL
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532848&extension=ts&play_token=Yfzt2sypcR
 #EXTINF:-1 group-title="Movie", MOVIES NOW FHD
