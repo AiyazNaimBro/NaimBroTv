@@ -404,6 +404,8 @@ http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PBS KIDS HD
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858753&extension=ts&play_token=9RmlhbjBmJ
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DISNEY XD HD [EAST]
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858763&extension=ts&play_token=TyAycJc0RS
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DINSEY XD HD [WEST]
