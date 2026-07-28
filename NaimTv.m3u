@@ -27,6 +27,7 @@ https://go.skym3u.top/live/aHR0cDovLzU5LjEwMy4zOC40Njo4MDAwL3BsYXkvYTEyNi9pbmRle
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1 HD (720p)
 https://go.skym3u.top/live/aHR0cDovL3R2c2VuNy5heW5hc2NvcGUubmV0L3NzcHRzMS9pbmRleC5tM3U4.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1
@@ -35,10 +36,13 @@ http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
 http://103.253.18.58:8000/play/a00m
 EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1 Hindi
 http://103.253.18.58:8000/play/a03o
+EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1 Hindi Tata
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2 HD (720p)
 https://go.skym3u.top/live/aHR0cDovL3R2c2VuNy5heW5hc2NvcGUubmV0L3NzcG9ydDJoZC9pbmRleC5tM3U4.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
+
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports
@@ -160,8 +164,14 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=15
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1 group-title="Movie", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 group-title="Movie", GOLDMINES 2
+http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="Movie", GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 group-title="Movie", GOLDMINES MOVIES 2
+http://103.175.73.12:8080/live/51/51_0.m3u8
+#EXTINF:-1 group-title="Movie", Gold Mines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 group-title="Movie", Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 group-title="Movie", Sony Television HD
