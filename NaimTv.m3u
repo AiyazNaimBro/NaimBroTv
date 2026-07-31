@@ -21,6 +21,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Unite8 Sports 1 Airtel
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532856&extension=ts&play_token=nSyy72VNei
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Unite8 Sports 1 Sun Direct
+https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Mahsun Sports
