@@ -19,6 +19,8 @@ http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 4
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Nagorik TV
+http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 
 # ─────────── Sports───────────
 
@@ -28,6 +30,8 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=15
 https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV 2
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
@@ -112,6 +116,8 @@ http://line.umetop.pro/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2257
 
 #EXTINF:-1 group-title="Movie", Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Movie", Sony Max HD 2
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #EXTINF:-1 group-title="Movie", Sony Max Airtel
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156118&extension=ts&play_token=yLVnTPnmjx
 #EXTINF:-1 group-title="Movie", Sony Max A
@@ -190,10 +196,14 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 http://103.253.18.58:8000/play/a01v
 #EXTINF:-1 group-title="Movie", Star Movies
 http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Movie", Star Movies HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
 #EXTINF:-1 group-title="Movie", STAR MOVIES FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1112131&extension=ts&play_token=Fs9UI4uVxN
 #EXTINF:-1 group-title="Movie", Star Movies Select
 http://66.102.126.10:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Movie", HBO
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 1
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280378&extension=ts&play_token=E6BIJhEvkY
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 2
@@ -440,6 +450,8 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858753&extension=ts&play_token=9RmlhbjBmJ
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DISNEY XD HD [EAST]
 http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858763&extension=ts&play_token=TyAycJc0RS
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬", DINSEY XD HD [WEST]
