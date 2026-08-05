@@ -38,6 +38,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", STAR SPORTS 1 TaTaPlay
 http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", STAR SPORTS 1 Hindi
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=2047230&extension=ts&play_token=eok8aifTq6
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1 Hindi
 http://103.253.18.58:8000/play/a03o
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Star Sports 1 Hindi Tata
@@ -46,6 +48,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2 Hindi
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104676&extension=ts&play_token=sviVSnwKws
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 1
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 2
@@ -56,17 +60,39 @@ https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104670&extension=ts&play_token=mmR7kl1Gb1
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 1
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106876&extension=ts&play_token=gjYP3J9vVJ
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 2
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106877&extension=ts&play_token=sE0o1ywwfW
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 2
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1109344&extension=ts&play_token=J3CMHwFa8L
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 1
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1109345&extension=ts&play_token=hq77giccMx
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports
 http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778395.ts
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports
+#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", WILLOW CRICKET EXTRA
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1142110&extension=ts&play_token=JWLaRoGWXT
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports A
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106883&extension=ts&play_token=RTcTQvrtzW
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports B
 http://103.151.60.204:881/A-Sports/video.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports HD
 http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", GEO SUPER
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106886&extension=ts&play_token=X6fhziMlgF
+#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ATN CRICKET PLUS
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1425812&extension=ts&play_token=ezZfC0rPaW
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 2
 http://103.151.60.188:1111/Ten_Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", FOX CRICKET HD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104678&extension=ts&play_token=4WeF0zcpvZ
+#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", SKY SPORTS CRICKET HD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104668&extension=ts&play_token=1OdWVlpCm9
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", REAL MADRID TV - English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", BARCELONA Tv
@@ -117,6 +143,10 @@ http://line.umetop.pro/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2257
 # ─────────── Movies───────────
 
 #EXTINF:-1 group-title="Movie", Sony Max HD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=280759&extension=ts&play_token=nmKvLTlFMi
+#EXTINF:-1 group-title="Movie", SONY MAX FHD
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156013&extension=ts&play_token=hyyHIzNxQy
+#EXTINF:-1 group-title="Movie", Sony Max
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Movie", Sony Max HD 2
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
@@ -124,14 +154,12 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156118&extension=ts&play_token=yLVnTPnmjx
 #EXTINF:-1 group-title="Movie", Sony Max A
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280777&extension=ts&play_token=jvVVd0kPfa
-#EXTINF:-1 group-title="Movie", SONY MAX FHD
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156013&extension=ts&play_token=hyyHIzNxQy
-#EXTINF:-1 group-title="Movie", SONY MAX HD
-http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
 #EXTINF:-1 group-title="Movie", Sony Max TATA
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280759&extension=ts&play_token=qrSh5EoMYn
 #EXTINF:-1 group-title="Movie", Sony Max HD (Sony Liv)
 http://live.balajibroadband.com:3500/live/476.m3u8
+#EXTINF:-1 group-title="Movie", SONY MAX HD
+http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156106&extension=ts&play_token=ALF6dg4Xq4
 #EXTINF:-1 group-title="Movie", COLORS CINEPLEX FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156003&extension=ts&play_token=X3VRlYmNWB
 #EXTINF:-1 group-title="Movie", COLORS CINEPLEX SD
@@ -174,6 +202,8 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=11
 http://66.102.126.10:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Movie", TATA PLAY HOLLYWOOD LOCAL
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532848&extension=ts&play_token=Yfzt2sypcR
+#EXTINF:-1, group-title="Movie", TATA SKY BOLLYWOOD
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=156028&extension=ts&play_token=n2hHFMO01x
 #EXTINF:-1 group-title="Movie", MOVIES NOW FHD
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156022&extension=ts&play_token=76scVqs2up
 #EXTINF:-1 group-title="Movie", MNX
