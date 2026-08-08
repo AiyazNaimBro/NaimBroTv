@@ -56,8 +56,16 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 1
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 1 HD
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 2
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 3 HD
+https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 4
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 4 HD
+https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz
@@ -129,6 +137,46 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", EUROPA-EUROPA
+http://190.93.224.42/EUROPA-EUROPA/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-PREMIUm
+http://190.93.224.42/ESPN-PREMIUM/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-7
+http://190.93.224.42/ESPN-7/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-6
+http://190.93.224.42/ESPN-6/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-5
+http://190.93.224.42/ESPN-5/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-4
+http://190.93.224.42/ESPN-4/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-3
+http://190.93.224.42/ESPN-3/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-2
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN3
+http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN2
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN4
+http://179.60.51.134:8888/ESPN4/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-PREMIUm
+http://190.93.224.42/ESPN-PREMIUM/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-7
+http://190.93.224.42/ESPN-7/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-6
+http://190.93.224.42/ESPN-6/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-5
+http://190.93.224.42/ESPN-5/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-4
+http://190.93.224.42/ESPN-4/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-3
+http://190.93.224.42/ESPN-3/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-2
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN
+http://190.93.224.42/ESPN/index.m3u8
 
 
 # ───────────𝗜𝘀𝗹𝗮𝗺𝗶𝗰───────────
@@ -236,6 +284,26 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=11
 http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Movie", HBO
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="Movie", WILLAX
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:-1 group-title="Movie", STUDIO-UNIVERSAL
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="Movie", SPACE
+http://190.93.224.42/SPACE/index.m3u8
+#EXTINF:-1 group-title="Movie", SONY-CHANNEL
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Movie", HBO-XTREME
+http://190.93.224.42/HBO-XTREME/index.m3u8
+#EXTINF:-1 group-title="Movie", HBO-SIGNATURE
+http://190.93.224.42/HBO-SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="Movie", HBO-PLUS
+http://190.93.224.42/HBO-PLUS/index.m3u8
+#EXTINF:-1 group-title="Movie", HBO Family
+http://190.93.224.42/HBO-FAMILY/index.m3u8
+#EXTINF:-1 group-title="Movie", HBO 2
+http://190.93.224.42/HBO-2/index.m3u8
+#EXTINF:-1 group-title="Movie", GOLDEN
+http://190.93.224.42/GOLDEN/index.m3u8
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 1
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1280378&extension=ts&play_token=E6BIJhEvkY
 #EXTINF:-1 group-title="Movie", PREMIUM CINEMA HORROR 2
