@@ -1,36 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-#EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T SPORTS KDS
-http://103.209.196.22:84/feed1001/index.fmp4.m3u8
-#EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports Jadoo
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="T 𝐒𝐩𝐨𝐫𝐭𝐬", T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-
-
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 1
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 2
-http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 3
-https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV 4
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Nagorik TV
-http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 
 # ─────────── Sports───────────
 
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Unite8 Sports 1 Airtel
 http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1532856&extension=ts&play_token=nSyy72VNei
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Unite8 Sports 1 Sun Direct
 https://s1.itcnbd.live/unite8-sports-1-hd/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", PTV 2
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
@@ -56,28 +40,21 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 1
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 1 HD
-https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 2
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 3 HD
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 4
-https://cloudplay-sonyliv.pages.dev/ten4.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 4 HD
-https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Sony Ten 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104670&extension=ts&play_token=mmR7kl1Gb1
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 1
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106876&extension=ts&play_token=gjYP3J9vVJ
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 1
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1109345&extension=ts&play_token=hq77giccMx
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 2
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106877&extension=ts&play_token=sE0o1ywwfW
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 2
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1109344&extension=ts&play_token=J3CMHwFa8L
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", CricBuzz 1
-http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1109345&extension=ts&play_token=hq77giccMx
+
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Willow Sports
 http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778395.ts
@@ -85,18 +62,12 @@ http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778395.ts
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1142110&extension=ts&play_token=JWLaRoGWXT
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports A
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106883&extension=ts&play_token=RTcTQvrtzW
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports B
-http://103.151.60.204:881/A-Sports/video.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", A Sports HD
-http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", GEO SUPER
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1106886&extension=ts&play_token=X6fhziMlgF
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ATN CRICKET PLUS
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1425812&extension=ts&play_token=ezZfC0rPaW
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Ten Cricket 2
-http://103.151.60.188:1111/Ten_Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", FOX CRICKET HD
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104678&extension=ts&play_token=4WeF0zcpvZ
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", SKY SPORTS CRICKET HD
@@ -105,18 +76,8 @@ http://innovationdns.eu:80/play/live.php?mac=00:1A:79:11:C4:7A&stream=1104668&ex
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", BARCELONA Tv
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Fox Sports
-http://206.212.244.63/63/index.m3u8
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Tsn 1
 http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Tsn 2
-http://40.160.24.55/TSN_2/index.m3u8
-#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Tsn 3
-http://40.160.24.55/TSN_3/index.m3u8
-#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Tsn 4
-http://40.160.24.55/TSN_4/index.m3u8
-#EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Tsn 5
-http://40.160.24.55/TSN_5/index.m3u8
 #EXTINF:-1, group-title="𝐒𝐩𝐨𝐫𝐭𝐬", Qaz Sports
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", beIN SPORTS 1
@@ -130,53 +91,13 @@ http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 2
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 3
 http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", D Sports 4
-http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", EUROPA-EUROPA
-http://190.93.224.42/EUROPA-EUROPA/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-PREMIUm
 http://190.93.224.42/ESPN-PREMIUM/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-7
-http://190.93.224.42/ESPN-7/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-6
-http://190.93.224.42/ESPN-6/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-5
-http://190.93.224.42/ESPN-5/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-4
-http://190.93.224.42/ESPN-4/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-3
-http://190.93.224.42/ESPN-3/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-2
-http://190.93.224.42/ESPN-2/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN3
-http://179.60.51.134:8888/ESPN3/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN2
-http://179.60.51.134:8888/ESPN2/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN
 http://179.60.51.134:8888/ESPN/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN4
-http://179.60.51.134:8888/ESPN4/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-PREMIUm
-http://190.93.224.42/ESPN-PREMIUM/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-7
-http://190.93.224.42/ESPN-7/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-6
-http://190.93.224.42/ESPN-6/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-5
-http://190.93.224.42/ESPN-5/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-4
-http://190.93.224.42/ESPN-4/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-3
-http://190.93.224.42/ESPN-3/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN-2
-http://190.93.224.42/ESPN-2/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬", ESPN
-http://190.93.224.42/ESPN/index.m3u8
 
 
 # ───────────𝗜𝘀𝗹𝗮𝗺𝗶𝗰───────────
@@ -284,14 +205,6 @@ http://line.iptvhunt.com/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=11
 http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Movie", HBO
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Movie", WILLAX
-http://190.93.224.42/WILLAX/index.m3u8
-#EXTINF:-1 group-title="Movie", STUDIO-UNIVERSAL
-http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 group-title="Movie", SPACE
-http://190.93.224.42/SPACE/index.m3u8
-#EXTINF:-1 group-title="Movie", SONY-CHANNEL
-http://190.93.224.42/SONY-CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Movie", HBO-XTREME
 http://190.93.224.42/HBO-XTREME/index.m3u8
 #EXTINF:-1 group-title="Movie", HBO-SIGNATURE
